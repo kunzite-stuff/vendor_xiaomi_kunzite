@@ -1576,9 +1576,19 @@ PRODUCT_PACKAGES += \
     libsw2dlut_dsp_skel \
     sensors.ssc \
     sensors.touch.detect \
+    libbundleaidl \
     libdlbvolaidl \
+    libdownmixaidl \
+    libdynamicsprocessingaidl \
     libhwdapaidl \
+    libloudnessenhanceraidl \
+    libqcompostprocbundle \
+    libqcomvisualizer \
+    libqcomvoiceprocessing \
+    libreverbaidl \
     libswgamedapaidl \
+    libvisualizeraidl \
+    libvolumelistener \
     tms-cos-dl-common \
     tms-cos-dl-ree \
     tms-utils \
