@@ -75,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/audio/sku_parrot/resourcemanager_parrot_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_parrot/resourcemanager_parrot_qrd.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/audio/sku_parrot/resourcemanager_parrot_qrd_sku1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_parrot/resourcemanager_parrot_qrd_sku1.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/audio/sku_parrot/resourcemanager_upd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_parrot/resourcemanager_upd.xml \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/bluetooth_qti_hearing_aid_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_qti_hearing_aid_audio_policy_configuration.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/bpf/cameraBpfGpl.o:$(TARGET_COPY_OUT_VENDOR)/etc/bpf/cameraBpfGpl.o \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/camera/102_SummerDay.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/102_SummerDay.png \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/camera/103_Fantasy.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/103_Fantasy.png \
@@ -553,7 +552,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/qcril_database/upgrade/other/6_version_change_property_table_qcrilnr.sql:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/upgrade/other/6_version_change_property_table_qcrilnr.sql \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/qcril_database/upgrade/other/7_version_update_modules.sql:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/upgrade/other/7_version_update_modules.sql \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/qguard.json:$(TARGET_COPY_OUT_VENDOR)/etc/qguard.json \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/seccomp_policy/atfwd@2.0.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/atfwd@2.0.policy \
@@ -679,7 +677,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/sixth_wrapper_cfg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sixth_wrapper_cfg.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/stub_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/stub_audio_policy_configuration.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/sysconfig/cacert-oem-defined-uids.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sysconfig/cacert-oem-defined-uids.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/telephony_packages.xml:$(TARGET_COPY_OUT_VENDOR)/etc/telephony_packages.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/thermal-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-camera.conf \
